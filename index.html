@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>深海渔作 | 海鲜直供预览</title>
+    <meta name="description" content="深海海鲜直供预览页，方便发给客户直接查看页面效果。" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero" id="top">
+        <div class="hero__media">
+          <div class="hero__overlay"></div>
+          <img class="hero__brand" src="./assets/images-upload/brand/home-text-overlay.png" alt="深海渔作" />
+          <img class="hero__headline" src="./assets/images-upload/brand/home-text-overlay-main.png" alt="北纬30°深海直捕" />
+          <div class="hero__nav">
+            <span>渔船直供</span>
+            <span>冷链到家</span>
+            <span>广东送礼</span>
+          </div>
+          <div class="hero__cta-row">
+            <a class="hero__button hero__button--solid" href="#featured">看推荐</a>
+            <a class="hero__button hero__button--ghost" href="#contact">联系下单</a>
+          </div>
+        </div>
+      </header>
+
+      <main class="content">
+        <section class="trust-grid" id="trust-grid"></section>
+
+        <section class="promo-card" id="promo-card">
+          <div class="promo-card__tag">新客福利</div>
+          <h2 class="promo-card__title" id="promo-title"></h2>
+          <p class="promo-card__text" id="promo-text"></p>
+        </section>
+
+        <section class="section-block" id="featured">
+          <div class="section-heading">
+            <span class="section-heading__eyebrow">本批推荐</span>
+            <h2>适合直接发给客户看的主推海鲜</h2>
+            <p>保留你现在小程序的主视觉、文案和产品结构，客户打开链接就能直接看页面。</p>
+          </div>
+          <div class="product-grid" id="featured-grid"></div>
+        </section>
+
+        <section class="story-layout">
+          <article class="story-panel glass-card">
+            <span class="section-heading__eyebrow">广东沿海直供</span>
+            <h3 id="story-title"></h3>
+            <p id="story-text"></p>
+            <ul class="story-points" id="highlight-list"></ul>
+          </article>
+          <aside class="glass-card story-photo-card">
+            <img src="/images-upload/hero/home-first-ship.jpg" alt="渔船出海" />
+            <div class="story-photo-card__caption">桂合渔23158号渔船 · 现捞现发</div>
+          </aside>
+        </section>
+
+        <section class="section-block" id="fresh">
+          <div class="section-heading">
+            <span class="section-heading__eyebrow">继续挑鲜货</span>
+            <h2>常规下单也能直接给客户预览</h2>
+            <p>首页推荐、家宴礼盒、黄花鱼、冰鬼虾这些重点品都能先展示出来。</p>
+          </div>
+          <div class="product-grid product-grid--light" id="fresh-grid"></div>
+        </section>
+
+        <section class="contact-card glass-card" id="contact">
+          <div>
+            <span class="section-heading__eyebrow">客户查看入口</span>
+            <h2>现在发这个链接，客户看到的是页面，不是接口数据</h2>
+            <p>如果要正式给微信小程序上线，我们后面再补 HTTPS、合法域名和微信审核。</p>
+          </div>
+          <div class="contact-card__links">
+            <a href="/api/home" target="_blank" rel="noreferrer">查看接口数据</a>
+            <a href="#top">返回首屏</a>
+          </div>
+        </section>
+      </main>
+    </div>
+    <script src="./app.js"></script>
+  </body>
+</html>

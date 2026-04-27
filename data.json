@@ -1,0 +1,221 @@
+{
+  "promo": {
+    "title": "新客户下单免费送价值38元红虾皮干 1 包",
+    "text": "数量有限，仅限首次下单用户。添加港岛姑娘后可了解更多深海海鲜和每日上新。"
+  },
+  "promises": [
+    "渔民小批量捕捞",
+    "顺丰冷链到家",
+    "微信下单更方便",
+    "不新鲜包退"
+  ],
+  "sourceStory": {
+    "title": "来自广东沿海的天然深海海鲜",
+    "text": "广东沿海海域水质干净，海鲜以原生态和鲜度见长。渔民坚持小批量捕捞、精挑细选，再通过冷链把海鲜更快送到消费者手中。"
+  },
+  "highlights": [
+    {
+      "title": "直供更新鲜",
+      "text": "海鲜从渔船捕捞后快速进入配送链路，减少中间环节，让从水里到餐桌的时间更短。"
+    },
+    {
+      "title": "产地更放心",
+      "text": "所有海鲜主打广东沿海直供，强调天然、无污染、无公害的深海海鲜品质。"
+    },
+    {
+      "title": "下单更省事",
+      "text": "不用亲自跑市场，微信下单即可享受送货上门和新客赠品福利，价格也更实在。"
+    }
+  ],
+  "featuredProducts": [
+    {
+      "id": "p001",
+      "category": "recommend",
+      "categoryLabel": "本周推荐",
+      "title": "广东深海家宴礼盒",
+      "subtitle": "野生鱿鱼 + 大虾，一盒撑起海鲜大餐",
+      "price": 398,
+      "unit": "/盒",
+      "origin": "广东沿海",
+      "badge": "广东人气款",
+      "stockTag": "顺丰冷链次日达",
+      "description": "一盒配齐野生鱿鱼和大虾，适合家庭聚餐、节日加菜和广东送礼场景。",
+      "detail": "礼盒围绕野生鱿鱼和大虾组合搭配，主打海味足、上桌体面、冷链到家快。下单后顺丰冷链发货，适合广东家庭和送礼场景。",
+      "specs": [
+        "双人尝鲜装",
+        "四人家宴装",
+        "节日送礼装"
+      ],
+      "weightOptions": [
+        "2.2kg",
+        "3.8kg"
+      ],
+      "image": "./assets/images-upload/gift/deep-sea-gift.jpg"
+    },
+    {
+      "id": "p002",
+      "category": "shrimp",
+      "categoryLabel": "虾蟹",
+      "title": "冰鬼虾｜深海直供 · 肉质紧实鲜甜",
+      "subtitle": "来自深海捕捞，上船即处理，锁住鲜味",
+      "price": 88,
+      "unit": "/盒",
+      "origin": "桂合渔23158号渔船",
+      "badge": "主推款",
+      "stockTag": "顺丰冷链发出",
+      "description": "虾肉紧实有弹性，入口带甜，不是那种“粉感虾”，越简单的做法越能吃出差别。",
+      "detail": "源自桂合渔23158号渔船直供，上船即处理后冷链发出。这批刚上船，数量不多，不新鲜包退。",
+      "specs": [
+        "主厨推荐装",
+        "家庭尝鲜装"
+      ],
+      "weightOptions": [
+        "500g",
+        "1kg"
+      ],
+      "image": "./assets/images-upload/products/ice-ghost.jpg"
+    },
+    {
+      "id": "p003",
+      "category": "fish",
+      "categoryLabel": "深海鱼",
+      "title": "每日鲜切三文鱼中段",
+      "subtitle": "果冻一样软糯，广东家庭常备快手菜",
+      "price": 88,
+      "unit": "/份",
+      "origin": "广东冷链仓",
+      "badge": "老人小孩都爱吃",
+      "stockTag": "顺丰冷运",
+      "description": "油脂丰润，解冻后煎、烤、焗都合适，早餐和晚餐都能快速上桌。",
+      "detail": "采用小份独立包装，减少浪费。适合不想逛市场、又想在家吃到鲜海味的用户。",
+      "specs": [
+        "轻食装",
+        "家庭装",
+        "囤货装"
+      ],
+      "weightOptions": [
+        "250g",
+        "500g",
+        "1kg"
+      ],
+      "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=1200&q=80"
+    },
+    {
+      "id": "p004",
+      "category": "shell",
+      "categoryLabel": "贝类",
+      "title": "深海鲍鱼",
+      "subtitle": "肥嫩多汁，广东家庭爱买的招牌海味",
+      "price": 99,
+      "unit": "/袋",
+      "origin": "广东沿海",
+      "badge": "招牌海味",
+      "stockTag": "满 199 包邮",
+      "description": "肉质饱满，鲜甜带弹性，适合清蒸、蒜蓉或煲汤，自己吃和送礼都很稳。",
+      "detail": "坚持小批量精选出货，不泡水不泡药，突出原生海味和广东沿海直供价值。",
+      "specs": [
+        "8只装",
+        "16只装"
+      ],
+      "weightOptions": [
+        "400g",
+        "800g"
+      ],
+      "image": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=1200&q=80"
+    }
+  ],
+  "freshProducts": [
+    {
+      "id": "p005",
+      "category": "fish",
+      "categoryLabel": "深海鱼",
+      "title": "深海黄花鱼",
+      "subtitle": "颜色鲜艳、肚子小、适合自吃也适合送礼",
+      "price": 78,
+      "unit": "/盒",
+      "origin": "广东近海",
+      "badge": "送礼体面",
+      "stockTag": "可预约周末送达",
+      "description": "与养殖黄花鱼区别明显，鲜味足、肉细嫩，拿来清蒸最能吃出海味。",
+      "detail": "深海捕捞、控量出货，更适合懂行用户和注重品质的家庭餐桌。",
+      "specs": [
+        "家庭尝鲜装",
+        "送礼精选装"
+      ],
+      "weightOptions": [
+        "600g",
+        "1.2kg"
+      ],
+      "image": "./assets/images-upload/products/yellow-croaker.jpg"
+    },
+    {
+      "id": "p006",
+      "category": "shrimp",
+      "categoryLabel": "虾蟹",
+      "title": "鲜活螃蟹｜现捕现发 · 膏满肉紧",
+      "subtitle": "当天捕捞筛选，发货前再次挑选",
+      "price": 198,
+      "unit": "/只",
+      "origin": "桂合渔23158号渔船",
+      "badge": "利润款",
+      "stockTag": "不新鲜包退",
+      "description": "蟹肉饱满，蟹膏细腻，打开那一刻就知道值不值。",
+      "detail": "源自桂合渔23158号渔船直供，现捕现发，发货前还会再次挑选。会挑的人，一般都会多拿几只。",
+      "specs": [
+        "单只精选",
+        "多人聚餐装"
+      ],
+      "weightOptions": [
+        "450g+",
+        "700g+"
+      ],
+      "image": "./assets/images-upload/products/crab.jpg"
+    },
+    {
+      "id": "p007",
+      "category": "shrimp",
+      "categoryLabel": "虾蟹",
+      "title": "明虾｜鲜活直发 · 肉厚饱满",
+      "subtitle": "精选个头均匀的明虾，肉厚、壳薄",
+      "price": 68,
+      "unit": "/盒",
+      "origin": "桂合渔23158号渔船",
+      "badge": "走量款",
+      "stockTag": "顺丰冷链发出",
+      "description": "清蒸、白灼都很稳，不腥、不柴，日常吃和招待人都合适。",
+      "detail": "源自桂合渔23158号渔船直供，规格均匀，鲜活直发。想要稳定好吃，这个最稳，不新鲜包退。",
+      "specs": [
+        "日常家用装",
+        "待客升级装"
+      ],
+      "weightOptions": [
+        "350g",
+        "700g"
+      ],
+      "image": "./assets/images-upload/products/ming-shrimp.jpg"
+    },
+    {
+      "id": "p008",
+      "category": "gift",
+      "categoryLabel": "礼盒",
+      "title": "深海礼盒",
+      "subtitle": "外观霸气，宴会压场，一个花龙就能拉高规格",
+      "price": 298,
+      "unit": "/套",
+      "origin": "广东沿海",
+      "badge": "宴会主角",
+      "stockTag": "支持礼卡",
+      "description": "适合节日、生日、家宴等需要排面的场合，懂吃海鲜的人一眼就知道值。",
+      "detail": "从渔港到餐桌缩短中间链路，既保证体面，也比餐厅和市场采购更省心。",
+      "specs": [
+        "宴会经典版",
+        "送礼升级版"
+      ],
+      "weightOptions": [
+        "1.0kg+",
+        "1.5kg+"
+      ],
+      "image": "./assets/images-upload/gift/deep-sea-gift.jpg"
+    }
+  ]
+}
